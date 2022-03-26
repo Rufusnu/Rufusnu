@@ -5,5 +5,5 @@
 
 I am eager for new challenges and very interested in developing my skills and growing professionally.
 Programming skills in C ++ / C, Python, Git, Qt, Linux Bash, GDScript (Godot Engine), SQL. 
-Participation in the C programming circle organized by Bitdefender, IT Engineering Contest (ITEC Timișoara),
-Timișoara CTF (Kali Linux), as well as significant school Olympics.
+Participation in the C programming circle organized by Bitdefender, first place at  Game Development IT Engineering Contest (ITEC Timișoara),
+Timișoara CTF (Kali Linux)
