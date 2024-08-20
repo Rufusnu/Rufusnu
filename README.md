@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rufusnu
-- 👀 I’m interested in Simulations, C programming language, System/Network Administration
+- 👀 I’m interested in C programming language, System/Network Administration, Simulations
 - 🌱 I’m currently learning everything I can :)
 - 📫 How to reach me: razvan.sofian@yahoo.ro
 
